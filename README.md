@@ -3,8 +3,9 @@
 **Stack Technique :**
 - Back-end : Java + Spring Boot
 - Front-end : React
-- BDD : MySQL
+- BDD : PostgreSQL
 - API : REST
+- Tests : Postman
 
 ## INTRO
 Pour se remettre dans le bain avant de commencer un nouveau CDI, j'ai décidé de réaliser un petit projet Full-Stack (développer un annuaire téléphonique en ligne) avec les technos que je vais le plus souvent utiliser.
